@@ -68,6 +68,6 @@ let name2 = 'John'
 
 console.log(name1 !== name2)
 
-let newJohn = name2.toLowerCase
+let newJohn = name2.toLowerCase()
 
 console.log(name1 === newJohn)
